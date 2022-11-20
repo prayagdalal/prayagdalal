@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prayagdalal
-- 💻 I'm Flutter Developer
+- 💻 I'm a Flutter Developer
 - 👀 I’m interested in Travelling, Gyming, Graphic Designing
 - 🌱 I’m currently learning Front-end developement
 - 💞️ I’m looking to collaborate on Flutter, Vue.js realted projects
