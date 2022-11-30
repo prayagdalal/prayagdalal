@@ -2,7 +2,7 @@
 - 💻 I'm a Flutter Developer
 - 👀 I’m interested in Travelling, Gyming, Graphic Designing
 - 🌱 I’m currently learning Front-end developement
-- 💞️ I’m looking to collaborate on Flutter, Vue.js realted projects
+- 💞️ I’m looking to collaborate on Flutter, React, Vue.js realted projects
 <!-- - 📫 How to reach me ... -->
 
 <!---
