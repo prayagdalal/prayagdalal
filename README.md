@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **prayagdalal1111@gmail.com**
 
-- <a href="https://linktr.ee/prayagdalal"><p>📄 My portfolio</p></a>
+- <p> <a href="https://linktr.ee/prayagdalal" target="blank">📄 My portfolio </a> </p>
 
 - ⚡ My hobbies are **Travelling, Gyming, Designing**
 
