@@ -5,15 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/prayag_dalal" target="blank"><img src="https://img.shields.io/twitter/follow/prayag_dalal?logo=twitter&style=for-the-badge" alt="prayag_dalal" /></a> </p>
 
-- 🔭 I’m currently working on **SeedWorks- Mobile App, Fragnatiks- Web App**
-
-- 🌱 I’m currently learning **Web3**
-
 - 💬 Ask me about **Hybrid app development, Frontend development, SAAS**
 
 - 📫 How to reach me **prayagdalal1111@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HtCSDzZZncRyc6Wa_SqYEVFg7QyPbZm1/view?usp=share_link](https://drive.google.com/file/d/1HtCSDzZZncRyc6Wa_SqYEVFg7QyPbZm1/view?usp=share_link)
+- 📄 My portfolio [[https://drive.google.com/file/d/1HtCSDzZZncRyc6Wa_SqYEVFg7QyPbZm1/view?usp=share_link](https://linktr.ee/prayagdalal)]([https://drive.google.com/file/d/1HtCSDzZZncRyc6Wa_SqYEVFg7QyPbZm1/view?usp=share_link](https://linktr.ee/prayagdalal))
 
 - ⚡ My hobbies are **Travelling, Gyming, Designing**
 
