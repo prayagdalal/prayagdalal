@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **prayagdalal1111@gmail.com**
 
-- <p> <a href="https://linktr.ee/prayagdalal" target="blank">📄 My portfolio </a> </p>
-
 - ⚡ My hobbies are **Travelling, Gyming, Designing**
 
 <h3 align="left">Connect with me:</h3>
