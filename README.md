@@ -1,11 +1,9 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prayagdalal&label=Profile%20views&color=0e75b6&style=flat" alt="prayagdalal" /> </p>
+
 <h1 align="center">Hi 👋, I'm Prayag.</h1>
 <h3 align="center">Building Apps for Startups & Enterprise | MVP | Product Creator</h3>
 
-<h3 align="center">I’m a Flutter📱 developer with over 3 years of experience in the field. I am currently involved in multiple projects, working with clients from Australia, Germany, and the USA on different startups.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prayagdalal&label=Profile%20views&color=0e75b6&style=flat" alt="prayagdalal" /> </p>
-
-<p align="left"> <a href="https://twitter.com/prayag_dalal" target="blank"><img src="https://img.shields.io/twitter/follow/prayag_dalal?logo=twitter&style=for-the-badge" alt="prayag_dalal" /></a> </p>
+<h5 align="center">I’m a Flutter📱 developer with over 3 years of experience in the field. I am currently involved in multiple projects, working with clients from Australia, Germany, and the USA on different startups.</h5>
 
 - 📫 How to reach me **prayagdalal1111@gmail.com**
 
