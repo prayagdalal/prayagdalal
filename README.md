@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Prayag.</h1>
 <h3 align="center">Building Apps for Startups & Enterprise | MVP | Product Creator</h3>
 
-<h5 align="center">I’m a Flutter📱 developer with over 3 years of experience in the field. I am currently involved in multiple projects, working with clients from Australia, Germany, and the USA on different startups.</h5>
+<h5 align="center">I build MVPs for startup founders in Days | Lovable & Supabase Expert | Vibe Coding | Claude Code | OpenClaw | Replit. working with clients from Australia, Germany, and the USA on different startups.</h5>
 
 - 📫 How to reach me **prayagdalal1111@gmail.com**
 
